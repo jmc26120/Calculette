@@ -1,0 +1,6 @@
+{
+  "name": "Precision Vue & Vuetify Calculator",
+  "description": "A sleek, feature-rich four-operation calculator built with Vue 3, Vuetify 3, and Vuelidate form validation with interactive keypad, expression history, memory register, and keyboard controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
